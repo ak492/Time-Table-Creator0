@@ -1,0 +1,1 @@
+1.Just import the "scheduling.sql" in database which is present in sql folder.
